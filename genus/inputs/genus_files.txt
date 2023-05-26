@@ -1,0 +1,7 @@
+~/project_mbist/rtl/bist_controller.v
+~/project_mbist/rtl/comp.v
+~/project_mbist/rtl/counter.v
+~/project_mbist/rtl/decoder.v
+~/project_mbist/rtl/mux.v
+~/project_mbist/rtl/sram.v
+~/project_mbist/rtl/mbist_wrapper.v
